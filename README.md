@@ -238,17 +238,6 @@ You can test the API using:
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots here after testing the API.
-
-Example:
-
-```md
-![Postman Test](screenshots/postman-test.png)
-```
-
----
 
 ## 🎯 Learning Outcomes
 
